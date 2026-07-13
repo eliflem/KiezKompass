@@ -1,0 +1,282 @@
+[
+  {
+    "district_name": "Wedding",
+    "zip_code": "13347",
+    "transportation": ["U9 (Leopoldplatz)", "Tram M13", "Bus 247", "S-Bahn (Wedding)"],
+    "neighborhood_vibe": {
+      "demographic_profile": "A diverse, working-class community with strong Turkish and Arab heritage, alongside an increasing number of young professionals and artists drawn by affordable rents.",
+      "nightlife_intensity": "Low",
+      "quietness_level": "Lively",
+      "english_accessibility": "Medium"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "High density of public Kitas and Grundschulen, serving a large family population.",
+      "green_spaces": ["Schillerpark", "Volkspark Rehberge"],
+      "nature_score": "High"
+    },
+    "housing_structure": {
+      "dominant_type": "Mix of early 20th-century Altbau and post-war social housing blocks.",
+      "density": "Medium-to-high density, traditional Berlin courtyard (Hinterhof) layouts."
+    }
+  },
+  {
+    "district_name": "Wedding",
+    "zip_code": "13353",
+    "transportation": ["U6 (Reinickendorfer Str.)", "S-Bahn (Wedding)", "Bus 120", "Tram M13"],
+    "neighborhood_vibe": {
+      "demographic_profile": "Long-term local residents and an emerging mix of students and creatives, with a noticeably international population near the medical campus.",
+      "nightlife_intensity": "Low",
+      "quietness_level": "Quiet",
+      "english_accessibility": "Medium"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Good availability of Kitas; proximity to Charité Mitte campus brings a mix of medical professional families.",
+      "green_spaces": ["Nettelbeckplatz", "Fennpfuhl-adjacent green strips"],
+      "nature_score": "Medium"
+    },
+    "housing_structure": {
+      "dominant_type": "Altbau (pre-war classic) with some renovated mid-century buildings.",
+      "density": "Medium density, residential courtyard style."
+    }
+  },
+  {
+    "district_name": "Tiergarten",
+    "zip_code": "10557",
+    "transportation": ["S-Bahn (Hauptbahnhof)", "U5", "Bus 245", "Tram M5/M8/M10"],
+    "neighborhood_vibe": {
+      "demographic_profile": "A blend of government and embassy staff, business travelers, and long-term residents in quieter residential pockets near the river.",
+      "nightlife_intensity": "Low",
+      "quietness_level": "Quiet",
+      "english_accessibility": "Very High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Moderate; fewer family-oriented services due to administrative/government land use.",
+      "green_spaces": ["Tiergarten (park)", "Spreebogenpark", "Spree riverside paths"],
+      "nature_score": "High"
+    },
+    "housing_structure": {
+      "dominant_type": "Mix of government Neubau buildings and select residential Altbau enclaves (e.g., Hansaviertel).",
+      "density": "Low-to-medium density, spacious modernist layouts."
+    }
+  },
+  {
+    "district_name": "Tiergarten",
+    "zip_code": "10785",
+    "transportation": ["U1/U2 (Wittenbergplatz nearby)", "S-Bahn (Tiergarten)", "Bus 100/106", "Tram M48"],
+    "neighborhood_vibe": {
+      "demographic_profile": "Upper-middle-class professionals, diplomats, and an international community connected to nearby business and cultural institutions.",
+      "nightlife_intensity": "Low",
+      "quietness_level": "Quiet",
+      "english_accessibility": "Very High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Moderate density of private and bilingual Kitas catering to international families.",
+      "green_spaces": ["Großer Tiergarten", "Zoo Berlin Gardens", "Lützowplatz"],
+      "nature_score": "High"
+    },
+    "housing_structure": {
+      "dominant_type": "Stately pre-war Altbau buildings and elegant Neubau developments.",
+      "density": "Medium density, boulevard-style residential blocks."
+    }
+  },
+  {
+    "district_name": "Mitte",
+    "zip_code": "10115",
+    "transportation": ["U6", "S-Bahn (Nordbahnhof)", "Tram M10", "Bus 142"],
+    "neighborhood_vibe": {
+      "demographic_profile": "A mix of tech entrepreneurs, corporate professionals, and young international families.",
+      "nightlife_intensity": "Medium",
+      "quietness_level": "Lively",
+      "english_accessibility": "Very High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "High density of international kindergartens and bilingual schools.",
+      "green_spaces": ["Invalidenpark", "Nordbahnhof Park", "Museumsinsel Playgrounds"],
+      "nature_score": "Medium"
+    },
+    "housing_structure": {
+      "dominant_type": "Predominantly high-end Neubau (modern developments) with beautifully restored Altbau pockets.",
+      "density": "High density, modern mid-rise residential complexes."
+    }
+  },
+  {
+    "district_name": "Mitte",
+    "zip_code": "10117",
+    "transportation": ["U6 (Französische Str.)", "S-Bahn (Friedrichstraße)", "Bus 100/200", "Tram M1"],
+    "neighborhood_vibe": {
+      "demographic_profile": "Predominantly corporate professionals, tourists, and affluent long-term residents in the historic core.",
+      "nightlife_intensity": "Medium",
+      "quietness_level": "Lively",
+      "english_accessibility": "Very High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Limited family infrastructure due to high commercial and tourist density.",
+      "green_spaces": ["Gendarmenmarkt", "Lustgarten"],
+      "nature_score": "Low"
+    },
+    "housing_structure": {
+      "dominant_type": "Restored historic Altbau and luxury Neubau in the government/embassy quarter.",
+      "density": "High density, central urban blocks."
+    }
+  },
+  {
+    "district_name": "Mitte",
+    "zip_code": "10119",
+    "transportation": ["U8 (Rosenthaler Platz)", "Tram M1/M8", "Bus 142/240"],
+    "neighborhood_vibe": {
+      "demographic_profile": "Popular among students, creative professionals, and a strong expat community, alongside long-term Kiez residents.",
+      "nightlife_intensity": "High",
+      "quietness_level": "Noisy",
+      "english_accessibility": "Very High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Moderate; several small private Kitas, fewer large schools due to dense urban fabric.",
+      "green_spaces": ["Weinbergspark", "Mauerpark (southern edge)"],
+      "nature_score": "Medium"
+    },
+    "housing_structure": {
+      "dominant_type": "Altbau (pre-war classic), heavily characteristic of the Spandauer Vorstadt/Scheunenviertel.",
+      "density": "High density, dense courtyard-style city blocks."
+    }
+  },
+  {
+    "district_name": "Kreuzberg",
+    "zip_code": "10961",
+    "transportation": ["U6/U7 (Mehringdamm)", "Bus 140/M19", "Tram (none direct)"],
+    "neighborhood_vibe": {
+      "demographic_profile": "A diverse blend of long-term Turkish-German residents, LGBTQ+ community members, and young professionals.",
+      "nightlife_intensity": "High",
+      "quietness_level": "Lively",
+      "english_accessibility": "High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Good density of Kitas; well-established public schools serving multigenerational families.",
+      "green_spaces": ["Viktoriapark", "Tempelhofer Feld (adjacent)"],
+      "nature_score": "High"
+    },
+    "housing_structure": {
+      "dominant_type": "Classic Altbau with high ceilings, typical of southern Kreuzberg.",
+      "density": "Medium-to-high density, courtyard-style residential blocks."
+    }
+  },
+  {
+    "district_name": "Kreuzberg",
+    "zip_code": "10997",
+    "transportation": ["U1 (Schlesisches Tor)", "S-Bahn (Treptower Park nearby)", "Bus 265", "Tram M10 (via Warschauer Str.)"],
+    "neighborhood_vibe": {
+      "demographic_profile": "Popular among students, artists, and a large international/expat population drawn to the area's countercultural reputation.",
+      "nightlife_intensity": "High",
+      "quietness_level": "Noisy",
+      "english_accessibility": "Very High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Moderate; several Kitas, though family infrastructure competes with dense nightlife use.",
+      "green_spaces": ["Görlitzer Park", "Spree riverside paths"],
+      "nature_score": "Medium"
+    },
+    "housing_structure": {
+      "dominant_type": "Altbau mixed with some post-war infill Neubau.",
+      "density": "High density, dense urban courtyard blocks."
+    }
+  },
+  {
+    "district_name": "Friedrichshain",
+    "zip_code": "10243",
+    "transportation": ["U5/S-Bahn (Warschauer Str.)", "Tram M10/M13", "Bus 240"],
+    "neighborhood_vibe": {
+      "demographic_profile": "Young professionals, students, and a strong creative/startup scene, with growing numbers of expat residents.",
+      "nightlife_intensity": "High",
+      "quietness_level": "Noisy",
+      "english_accessibility": "High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Moderate; a number of newer Kitas serving a relatively young population.",
+      "green_spaces": ["RAW-Gelände green areas", "Boxhagener Platz"],
+      "nature_score": "Medium"
+    },
+    "housing_structure": {
+      "dominant_type": "Mix of restored Altbau and converted industrial/post-industrial loft spaces.",
+      "density": "High density, urban residential blocks."
+    }
+  },
+  {
+    "district_name": "Friedrichshain",
+    "zip_code": "10247",
+    "transportation": ["S-Bahn (Ostkreuz)", "Tram M13/21", "Bus 240/N40"],
+    "neighborhood_vibe": {
+      "demographic_profile": "A mix of long-term East Berlin residents, young families, and professionals attracted to the area's transit connectivity.",
+      "nightlife_intensity": "Medium",
+      "quietness_level": "Lively",
+      "english_accessibility": "Medium"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Good density of Kitas and primary schools, popular with young families.",
+      "green_spaces": ["Volkspark Friedrichshain", "Traveplatz"],
+      "nature_score": "High"
+    },
+    "housing_structure": {
+      "dominant_type": "Mix of Altbau and Plattenbau (prefabricated East German blocks).",
+      "density": "Medium-to-high density, mixed residential typologies."
+    }
+  },
+  {
+    "district_name": "Prenzlauer Berg",
+    "zip_code": "10405",
+    "transportation": ["U2 (Eberswalder Str.)", "Tram M1/M10", "Bus 142/240"],
+    "neighborhood_vibe": {
+      "demographic_profile": "Affluent young families and professionals, alongside long-term residents; an area known for a high concentration of strollers and family cafés.",
+      "nightlife_intensity": "Medium",
+      "quietness_level": "Lively",
+      "english_accessibility": "High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "Very high density of Kitas, playgrounds, and family-oriented amenities.",
+      "green_spaces": ["Mauerpark", "Helmholtzplatz"],
+      "nature_score": "High"
+    },
+    "housing_structure": {
+      "dominant_type": "Beautifully restored Altbau (pre-war classic), among the most sought-after in Berlin.",
+      "density": "Medium density, residential courtyard style."
+    }
+  },
+  {
+    "district_name": "Prenzlauer Berg",
+    "zip_code": "10437",
+    "transportation": ["U2 (Senefelderplatz)", "Tram M2/M10", "Bus 142"],
+    "neighborhood_vibe": {
+      "demographic_profile": "A mix of established professional families, students, and a notable international and creative community.",
+      "nightlife_intensity": "Medium",
+      "quietness_level": "Lively",
+      "english_accessibility": "High"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "High density of Kitas and well-regarded Grundschulen.",
+      "green_spaces": ["Kollwitzplatz", "Wasserturm Park"],
+      "nature_score": "Medium"
+    },
+    "housing_structure": {
+      "dominant_type": "Classic Altbau with ornate facades, a hallmark of the Kollwitzkiez area.",
+      "density": "Medium density, residential courtyard style."
+    }
+  },
+  {
+    "district_name": "Prenzlauer Berg",
+    "zip_code": "10439",
+    "transportation": ["S-Bahn (Prenzlauer Allee)", "Tram M2/12", "Bus 156/255"],
+    "neighborhood_vibe": {
+      "demographic_profile": "A quieter mix of long-term residents and families, slightly less touristic than the southern parts of the district.",
+      "nightlife_intensity": "Low",
+      "quietness_level": "Quiet",
+      "english_accessibility": "Medium"
+    },
+    "family_and_nature": {
+      "kindergarten_and_school_presence": "High density of Kitas and schools, well suited to families.",
+      "green_spaces": ["Ernst-Thälmann-Park", "Botanischer Volkspark Pankow (nearby)"],
+      "nature_score": "High"
+    },
+    "housing_structure": {
+      "dominant_type": "Mix of Altbau and Plattenbau, including the notable Thälmannpark housing complex.",
+      "density": "Medium density, mixed residential typologies."
+    }
+  }
+]
